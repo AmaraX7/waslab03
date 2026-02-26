@@ -1,0 +1,922 @@
+[
+  {
+    "id": "116137626464787904",
+    "created_at": "2026-02-26T15:11:05.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://pubeurope.com/users/europesays/statuses/116137568830057803",
+    "url": "https://pubeurope.com/@europesays/116137568830057803",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p><a href=\"https://www.europesays.com/2807663/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">europesays.com/2807663/</span><span class=\"invisible\"></span></a> Pentagon officials sent Anthropic best and final offer for military use of its AI amid dispute, sources say <a href=\"https://pubeurope.com/tags/Anthropic\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Anthropic</span></a> <a href=\"https://pubeurope.com/tags/ArtificialIntelligence\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>ArtificialIntelligence</span></a> <a href=\"https://pubeurope.com/tags/D%C3%B8d\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Død</span></a> <a href=\"https://pubeurope.com/tags/pentagon\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>pentagon</span></a> <a href=\"https://pubeurope.com/tags/PeteHegseth\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>PeteHegseth</span></a> <a href=\"https://pubeurope.com/tags/SecretaryOfDefense\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>SecretaryOfDefense</span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "110639634871888576",
+      "username": "europesays",
+      "acct": "europesays@pubeurope.com",
+      "display_name": "Europe Says",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2023-06-26T00:00:00.000Z",
+      "note": "",
+      "url": "https://pubeurope.com/@europesays",
+      "uri": "https://pubeurope.com/users/europesays",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/110/639/634/871/888/576/original/1543102d287e36f4.png",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/110/639/634/871/888/576/original/1543102d287e36f4.png",
+      "header": "https://mastodont.cat/system/cache/accounts/headers/110/639/634/871/888/576/original/642bf6bb9adf5cf1.png",
+      "header_static": "https://mastodont.cat/system/cache/accounts/headers/110/639/634/871/888/576/original/642bf6bb9adf5cf1.png",
+      "followers_count": 2290,
+      "following_count": 0,
+      "statuses_count": 476464,
+      "last_status_at": "2026-02-26",
+      "hide_collections": true,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://www.europesays.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">europesays.com</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [
+      {
+        "id": "116137626451106058",
+        "type": "image",
+        "url": "https://mastodont.cat/system/cache/media_attachments/files/116/137/626/451/106/058/original/a18ff2132c8d6d53.jpg",
+        "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/116/137/626/451/106/058/small/a18ff2132c8d6d53.jpg",
+        "remote_url": "https://media.pubeurope.com/media_attachments/files/116/137/568/813/592/803/original/e387611446e66c8e.jpg",
+        "preview_remote_url": null,
+        "text_url": null,
+        "meta": {
+          "original": {
+            "width": 1200,
+            "height": 630,
+            "size": "1200x630",
+            "aspect": 1.9047619047619047
+          },
+          "small": {
+            "width": 662,
+            "height": 348,
+            "size": "662x348",
+            "aspect": 1.9022988505747127
+          }
+        },
+        "description": "Pentagon officials sent Anthropic best and final offer for military use of its AI amid dispute, sources say",
+        "blurhash": "UF9tJvj[00Rj-;WBt7ofxuayRjj[IUj[WBRj"
+      }
+    ],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "anthropic",
+        "url": "https://mastodont.cat/tags/anthropic"
+      },
+      {
+        "name": "artificialintelligence",
+        "url": "https://mastodont.cat/tags/artificialintelligence"
+      },
+      {
+        "name": "dod",
+        "url": "https://mastodont.cat/tags/dod"
+      },
+      {
+        "name": "pentagon",
+        "url": "https://mastodont.cat/tags/pentagon"
+      },
+      {
+        "name": "petehegseth",
+        "url": "https://mastodont.cat/tags/petehegseth"
+      },
+      {
+        "name": "secretaryofdefense",
+        "url": "https://mastodont.cat/tags/secretaryofdefense"
+      }
+    ],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [],
+      "manual": [],
+      "current_user": "denied"
+    }
+  },
+  {
+    "id": "116137626394742621",
+    "created_at": "2026-02-26T14:57:46.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "es",
+    "uri": "https://flipboard.com/users/MDoficial/statuses/SHTmKsvHTAuyiY8DkVllKQ:a:2052022179",
+    "url": "https://flipboard.com/@mdoficial/mundo-deportivo-oj3ntjrqz/-/a-SHTmKsvHTAuyiY8DkVllKQ%3Aa%3A2052022179-%2F0",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Sigue el lío Vinicius-Prestianni en redes sociales<br><a href=\"https://www.mundodeportivo.com/futbol/real-madrid/20260226/1004136694/sigue-lio-vinicius-prestianni-redes-sociales.html?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mundodeportivo.com/futbol/real</span><span class=\"invisible\">-madrid/20260226/1004136694/sigue-lio-vinicius-prestianni-redes-sociales.html?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "114591166064735282",
+      "username": "MDoficial",
+      "acct": "MDoficial@flipboard.com",
+      "display_name": "Mundo Deportivo",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2025-05-13T00:00:00.000Z",
+      "note": "<p>Flipboard oficial de Mundo Deportivo. Desde 1906 te traemos las mejores noticias del deporte y del Barça</p><p>Seguir para ver los posts de la cuenta oficial de Flipboard <a href=\"https://flipboard.com/@MDoficial\" rel=\"nofollow noopener\" target=\"_blank\">Mundo Deportivo</a>.</p>",
+      "url": "https://flipboard.com/@MDoficial",
+      "uri": "https://flipboard.com/users/MDoficial",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "header": "https://mastodont.cat/headers/original/missing.png",
+      "header_static": "https://mastodont.cat/headers/original/missing.png",
+      "followers_count": 10124,
+      "following_count": 2,
+      "statuses_count": 851145,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137626315715048",
+    "created_at": "2026-02-26T15:25:41.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/megansmolenyak/statuses/116137626271224001",
+    "url": "https://mastodon.social/@megansmolenyak/116137626271224001",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>It's that time of the year again. So with my 10,000 steps a day for 15 years, I've now walked 92.2% of the world's circumference. Getting there! (AI-generated image, obviously 😏)</p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "109389077879675028",
+      "username": "megansmolenyak",
+      "acct": "megansmolenyak@mastodon.social",
+      "display_name": "Megan Smolenyak",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": false,
+      "group": false,
+      "created_at": "2022-11-15T00:00:00.000Z",
+      "note": "<p>🕵️‍♀️ Lifelong genealogist and stubborn solver of history mysteries &amp; cold cases. Don't try to hide from me. I *will* find you.  #genealogy <a href=\"https://mastodon.social/tags/Geneadons\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Geneadons</span></a> <a href=\"https://mastodon.social/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>history</span></a> <a href=\"https://mastodon.social/tags/familyhistory\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>familyhistory</span></a> <a href=\"https://mastodon.social/tags/histodons\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>histodons</span></a></p>",
+      "url": "https://mastodon.social/@megansmolenyak",
+      "uri": "https://mastodon.social/users/megansmolenyak",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/389/077/879/675/028/original/b4e22f5e349a3146.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/389/077/879/675/028/original/b4e22f5e349a3146.jpg",
+      "header": "https://mastodont.cat/system/cache/accounts/headers/109/389/077/879/675/028/original/3f4b14c686cb8f47.jpg",
+      "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/389/077/879/675/028/original/3f4b14c686cb8f47.jpg",
+      "followers_count": 1006,
+      "following_count": 871,
+      "statuses_count": 1603,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://www.megansmolenyak.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">megansmolenyak.com</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/megansmolenyak\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/megansmolenyak</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Medium",
+          "value": "<a href=\"https://smolenyak.medium.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">smolenyak.medium.com/</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "YouTube",
+          "value": "<a href=\"https://www.youtube.com/user/MeganSmolenyak\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/user/MeganSmolenyak</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [
+      {
+        "id": "116137626306027573",
+        "type": "image",
+        "url": "https://mastodont.cat/system/cache/media_attachments/files/116/137/626/306/027/573/original/7bc737ed5c80779e.jpg",
+        "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/116/137/626/306/027/573/small/7bc737ed5c80779e.jpg",
+        "remote_url": "https://files.mastodon.social/media_attachments/files/116/137/624/208/823/831/original/47bebc3840a3aee9.jpg",
+        "preview_remote_url": null,
+        "text_url": null,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "width": 1233,
+            "height": 1617,
+            "size": "1233x1617",
+            "aspect": 0.7625231910946196
+          },
+          "small": {
+            "width": 419,
+            "height": 549,
+            "size": "419x549",
+            "aspect": 0.7632058287795993
+          }
+        },
+        "description": "illustration showing yellow sneakers beside a globe with a red path suggesting someone walking across it",
+        "blurhash": "UuLN}aof-:bcx]a{aeof_NfPsSj[RkoLaxay"
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137626105387407",
+    "created_at": "2026-02-26T15:25:37.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://infosec.exchange/users/Lockdownyourlife/statuses/116137626005297873",
+    "url": "https://infosec.exchange/@Lockdownyourlife/116137626005297873",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Good morning! I'm helping a DV family with groceries/rent this week. We're at $30/$300 if you'd like to support. Please RT for reach. Any help is appreciated. 🙂</p><p>C: $Lockdownyourlife<br>V: lockdownyourlife<br><a href=\"https://www.ko-fi.com/lockdownyourlife\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ko-fi.com/lockdownyourlife</span><span class=\"invisible\"></span></a></p><p><a href=\"https://infosec.exchange/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>tech</span></a> <a href=\"https://infosec.exchange/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://infosec.exchange/tags/community\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>community</span></a> <a href=\"https://infosec.exchange/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://infosec.exchange/tags/mutualaid\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>mutualaid</span></a> <a href=\"https://infosec.exchange/tags/MutualAidRequest\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>MutualAidRequest</span></a> <a href=\"https://infosec.exchange/tags/safety\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>safety</span></a> <a href=\"https://infosec.exchange/tags/security\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>security</span></a> <a href=\"https://infosec.exchange/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>privacy</span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "109245711915619464",
+      "username": "Lockdownyourlife",
+      "acct": "Lockdownyourlife@infosec.exchange",
+      "display_name": "Lockdownyourlife",
+      "locked": true,
+      "bot": false,
+      "discoverable": true,
+      "indexable": false,
+      "group": false,
+      "created_at": "2022-10-28T00:00:00.000Z",
+      "note": "<p><a href=\"https://infosec.exchange/tags/Privacy\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Privacy</span></a>/Online Safety/#OSINT · Investigator, Privacy Advocate &amp; Trainer·🐎 <a href=\"https://infosec.exchange/tags/horse\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>horse</span></a> owner · She/Her ·🔞 <a href=\"https://infosec.exchange/tags/NSFW\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>NSFW</span></a> 🌶 <a href=\"https://infosec.exchange/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>writer</span></a>  <a href=\"https://infosec.exchange/tags/editor\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>editor</span></a><br>All my links: <a href=\"https://lockdownyourlife.mykajabi.com/all-the-links\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lockdownyourlife.mykajabi.com/</span><span class=\"invisible\">all-the-links</span></a></p>",
+      "url": "https://infosec.exchange/@Lockdownyourlife",
+      "uri": "https://infosec.exchange/users/Lockdownyourlife",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/245/711/915/619/464/original/be7bce79ae1f5bbc.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/245/711/915/619/464/original/be7bce79ae1f5bbc.jpg",
+      "header": "https://mastodont.cat/system/cache/accounts/headers/109/245/711/915/619/464/original/a6a40fe5ec3c38a7.png",
+      "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/245/711/915/619/464/original/a6a40fe5ec3c38a7.png",
+      "followers_count": 6789,
+      "following_count": 479,
+      "statuses_count": 53,
+      "last_status_at": "2026-02-26",
+      "hide_collections": true,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "All My Links",
+          "value": "<a href=\"https://beacons.ai/lockdownyourlife\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">beacons.ai/lockdownyourlife</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Consult",
+          "value": "<a href=\"https://lockdownyourlife.as.me/strategy\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lockdownyourlife.as.me/strategy</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Support My Work",
+          "value": "<a href=\"https://ko-fi.com/lockdownyourlife\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/lockdownyourlife</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Privacy Fundamentals",
+          "value": "<a href=\"https://lockdownyourlife.as.me/privacy-class\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">lockdownyourlife.as.me/privacy</span><span class=\"invisible\">-class</span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Fansly",
+          "value": "<a href=\"https://fans.ly/lockdownyourlife\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fans.ly/lockdownyourlife</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "OnlyFans🌶 🔞",
+          "value": "<a href=\"https://onlyfans.com/lockdownyourlife\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">onlyfans.com/lockdownyourlife</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "tech",
+        "url": "https://mastodont.cat/tags/tech"
+      },
+      {
+        "name": "infosec",
+        "url": "https://mastodont.cat/tags/infosec"
+      },
+      {
+        "name": "community",
+        "url": "https://mastodont.cat/tags/community"
+      },
+      {
+        "name": "mutualaid",
+        "url": "https://mastodont.cat/tags/mutualaid"
+      },
+      {
+        "name": "MutualAidRequest",
+        "url": "https://mastodont.cat/tags/MutualAidRequest"
+      },
+      {
+        "name": "safety",
+        "url": "https://mastodont.cat/tags/safety"
+      },
+      {
+        "name": "security",
+        "url": "https://mastodont.cat/tags/security"
+      },
+      {
+        "name": "privacy",
+        "url": "https://mastodont.cat/tags/privacy"
+      }
+    ],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [],
+      "manual": [],
+      "current_user": "denied"
+    }
+  },
+  {
+    "id": "116137625955240092",
+    "created_at": "2026-02-26T15:25:35.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "eu",
+    "uri": "https://mastodon.eus/users/berria/statuses/116137625878560348",
+    "url": "https://mastodon.eus/@berria/116137625878560348",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Migratzaileei euskara ikastea errazteko eredua sortu nahi dute Bizkaian. Diputazioak egindako azterlan baten arabera, migratzaileek euskara «baztertzaile» eta «urruneko elementu» moduan ikusten dute, eta, diotenez, euskara ikasteko ezkaintza ez da haien beharretara egokitzen. <a href=\"https://b.eus/c8a90ac1DL\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">b.eus/c8a90ac1DL</span><span class=\"invisible\"></span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "113554289938603319",
+      "username": "berria",
+      "acct": "berria@mastodon.eus",
+      "display_name": "BERRIA egunkaria",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "indexable": false,
+      "group": false,
+      "created_at": "2024-11-27T00:00:00.000Z",
+      "note": "<p>BERRIA egunkariaren kontu ofiziala da hau. Egin zure ekarpena: <a href=\"http://berria.eus/babestuberria\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">berria.eus/babestuberria</span><span class=\"invisible\"></span></a> - Aldi hau kontatzeko.</p>",
+      "url": "https://mastodon.eus/@berria",
+      "uri": "https://mastodon.eus/users/berria",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/554/289/938/603/319/original/3f72cb0184c6602f.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/554/289/938/603/319/original/3f72cb0184c6602f.jpg",
+      "header": "https://mastodont.cat/system/cache/accounts/headers/113/554/289/938/603/319/original/9d2ec15a6c4bc207.jpg",
+      "header_static": "https://mastodont.cat/system/cache/accounts/headers/113/554/289/938/603/319/original/9d2ec15a6c4bc207.jpg",
+      "followers_count": 1443,
+      "following_count": 49,
+      "statuses_count": 22718,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Babestu BERRIA",
+          "value": "<a href=\"http://berria.eus/babestuberria\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">berria.eus/babestuberria</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Albisteak",
+          "value": "<a href=\"https://www.berria.eus/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">berria.eus/</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2026-02-22T21:34:08.533+00:00"
+        },
+        {
+          "name": "Podcastak",
+          "value": "<a href=\"https://www.berria.eus/entzun-berria.html\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">berria.eus/entzun-berria.html</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": {
+      "url": "https://b.eus/c8a90ac1DL",
+      "title": "Migratzaileei euskara ikastea errazteko eredua sortu nahi dute Bizkaian",
+      "description": "Diputazioak egindako azterlan baten arabera, migratzaileek euskara «baztertzaile» eta «urruneko elementu» moduan ikusten dute, eta, diotenez, euskara ikasteko ezkaintza ez da haien beharretara egok...",
+      "language": "eu",
+      "type": "link",
+      "author_name": "",
+      "author_url": "",
+      "provider_name": "Berria",
+      "provider_url": "",
+      "html": "",
+      "width": 640,
+      "height": 360,
+      "image": "https://mastodont.cat/system/cache/preview_cards/images/021/952/861/original/30ec5078cda7360a.jpeg",
+      "image_description": "",
+      "embed_url": "",
+      "blurhash": "UjI=Ms4m%M_3t7j]WWbHodt7ofWBofWBWVbH",
+      "published_at": "2026-02-26T14:30:00.000Z",
+      "authors": []
+    },
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137625951069265",
+    "created_at": "2026-02-26T15:15:17.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://flipboard.com/users/thenewsdesk/statuses/0pcL_PObRVi1RrtLckfWcQ:a:43591897",
+    "url": "https://flipboard.com/@thenewsdesk/top-stories-in-celeb-mttno4aoz/-/a-0pcL_PObRVi1RrtLckfWcQ%3Aa%3A43591897-%2F0",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Man sentenced in crash that killed Dixie Chicks founder Laura Lynch<br><a href=\"https://www.usatoday.com/story/entertainment/celebrities/2026/02/26/dixie-chicks-founding-member-laura-lynch-crash/88873136007/?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">usatoday.com/story/entertainme</span><span class=\"invisible\">nt/celebrities/2026/02/26/dixie-chicks-founding-member-laura-lynch-crash/88873136007/?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Posted into Top Stories in Celeb <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@thenewsdesk/top-stories-in-celeb-mttno4aoz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>top-stories-in-celeb-thenewsdesk</span></a></span></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "111926352662078649",
+      "username": "thenewsdesk",
+      "acct": "thenewsdesk@flipboard.com",
+      "display_name": "The News Desk",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2024-02-12T00:00:00.000Z",
+      "note": "<p>The top headlines in news, tech, business, sports, entertainment and more — curated by Flipboard's human editors and our trusted algorithm. This account powers Flipboard's \"Daily Edition\" news digest.</p><p>Follow to see posts from the official <a href=\"https://flipboard.com/@thenewsdesk\" rel=\"nofollow noopener\" target=\"_blank\">The News Desk</a> Flipboard profile.</p>",
+      "url": "https://flipboard.com/@thenewsdesk",
+      "uri": "https://flipboard.com/users/thenewsdesk",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/111/926/352/662/078/649/original/837afe1233150a42.jpeg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/111/926/352/662/078/649/original/837afe1233150a42.jpeg",
+      "header": "https://mastodont.cat/headers/original/missing.png",
+      "header_static": "https://mastodont.cat/headers/original/missing.png",
+      "followers_count": 233458267,
+      "following_count": 75,
+      "statuses_count": 1209968,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [
+      {
+        "id": "112299702670436741",
+        "username": "top-stories-in-celeb-thenewsdesk",
+        "url": "https://flipboard.com/@thenewsdesk/top-stories-in-celeb-mttno4aoz",
+        "acct": "top-stories-in-celeb-thenewsdesk@flipboard.com"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137625896593819",
+    "created_at": "2026-02-26T14:47:40.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "es",
+    "uri": "https://flipboard.com/users/MDoficial/statuses/Ifh-yLYVQQGsP53X5VEA7w:a:2052022179",
+    "url": "https://flipboard.com/@mdoficial/mundo-deportivo-oj3ntjrqz/-/a-Ifh-yLYVQQGsP53X5VEA7w%3Aa%3A2052022179-%2F0",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>España ya prepara a puerta cerrada el duelo ante Islandia<br><a href=\"https://www.mundodeportivo.com/futbol/femenino/20260226/1004136690/espana-prepara-puerta-cerrada-duelo-islandia.html?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mundodeportivo.com/futbol/feme</span><span class=\"invisible\">nino/20260226/1004136690/espana-prepara-puerta-cerrada-duelo-islandia.html?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "114591166064735282",
+      "username": "MDoficial",
+      "acct": "MDoficial@flipboard.com",
+      "display_name": "Mundo Deportivo",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2025-05-13T00:00:00.000Z",
+      "note": "<p>Flipboard oficial de Mundo Deportivo. Desde 1906 te traemos las mejores noticias del deporte y del Barça</p><p>Seguir para ver los posts de la cuenta oficial de Flipboard <a href=\"https://flipboard.com/@MDoficial\" rel=\"nofollow noopener\" target=\"_blank\">Mundo Deportivo</a>.</p>",
+      "url": "https://flipboard.com/@MDoficial",
+      "uri": "https://flipboard.com/users/MDoficial",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "header": "https://mastodont.cat/headers/original/missing.png",
+      "header_static": "https://mastodont.cat/headers/original/missing.png",
+      "followers_count": 10124,
+      "following_count": 2,
+      "statuses_count": 851145,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137625863001998",
+    "created_at": "2026-02-26T14:43:18.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "es",
+    "uri": "https://flipboard.com/users/MDoficial/statuses/XReUVIMvQS6fRVSIjDb-yA:a:2052022179",
+    "url": "https://flipboard.com/@mdoficial/mundo-deportivo-oj3ntjrqz/-/a-XReUVIMvQS6fRVSIjDb-yA%3Aa%3A2052022179-%2F0",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Espanyol: Aleix Febas, opción a coste cero para la medular<br><a href=\"https://www.mundodeportivo.com/futbol/rcd-espanyol/20260226/1004136658/aleix-febas-opcion-coste-cero-medular.html?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mundodeportivo.com/futbol/rcd-</span><span class=\"invisible\">espanyol/20260226/1004136658/aleix-febas-opcion-coste-cero-medular.html?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "114591166064735282",
+      "username": "MDoficial",
+      "acct": "MDoficial@flipboard.com",
+      "display_name": "Mundo Deportivo",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2025-05-13T00:00:00.000Z",
+      "note": "<p>Flipboard oficial de Mundo Deportivo. Desde 1906 te traemos las mejores noticias del deporte y del Barça</p><p>Seguir para ver los posts de la cuenta oficial de Flipboard <a href=\"https://flipboard.com/@MDoficial\" rel=\"nofollow noopener\" target=\"_blank\">Mundo Deportivo</a>.</p>",
+      "url": "https://flipboard.com/@MDoficial",
+      "uri": "https://flipboard.com/users/MDoficial",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/114/591/166/064/735/282/original/1d00b9a7599897f6.jpg",
+      "header": "https://mastodont.cat/headers/original/missing.png",
+      "header_static": "https://mastodont.cat/headers/original/missing.png",
+      "followers_count": 10124,
+      "following_count": 2,
+      "statuses_count": 851145,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": null,
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137625832667663",
+    "created_at": "2026-02-26T15:25:33.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://hachyderm.io/users/ChrisShort/statuses/116137625749876228",
+    "url": "https://hachyderm.io/@ChrisShort/116137625749876228",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Week Ending February 22, 2026 <a href=\"https://hachyderm.io/tags/devopsish\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>devopsish</span></a> <a href=\"https://hachyderm.io/tags/kubernetes\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>kubernetes</span></a> <a href=\"https://lwkd.info/2026/20260226\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lwkd.info/2026/20260226</span><span class=\"invisible\"></span></a></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "109273942392064653",
+      "username": "ChrisShort",
+      "acct": "ChrisShort@hachyderm.io",
+      "display_name": "Chris Short",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2022-06-29T00:00:00.000Z",
+      "note": "<p>DevOps’ish | Kubernetes Contributor | Open Source | Corgis | LEGO | Detroit | Disabled Veteran | He/Him | Views solely mine</p>",
+      "url": "https://hachyderm.io/@ChrisShort",
+      "uri": "https://hachyderm.io/users/ChrisShort",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/273/942/392/064/653/original/2e174754c8343dd5.jpg",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/273/942/392/064/653/original/2e174754c8343dd5.jpg",
+      "header": "https://mastodont.cat/system/cache/accounts/headers/109/273/942/392/064/653/original/933e0d5cc2c8b5a5.jpeg",
+      "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/273/942/392/064/653/original/933e0d5cc2c8b5a5.jpeg",
+      "followers_count": 3862,
+      "following_count": 852,
+      "statuses_count": 1282,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://ChrisShort.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ChrisShort.net</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "LinkedIn",
+          "value": "<a href=\"https://www.linkedin.com/in/thechrisshort\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/thechrisshort</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "DevOps'ish",
+          "value": "<a href=\"https://devopsish.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">devopsish.com</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2026-02-19T17:41:20.652+00:00"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "devopsish",
+        "url": "https://mastodont.cat/tags/devopsish"
+      },
+      {
+        "name": "kubernetes",
+        "url": "https://mastodont.cat/tags/kubernetes"
+      }
+    ],
+    "emojis": [],
+    "quote": null,
+    "card": {
+      "url": "https://lwkd.info/2026/20260226",
+      "title": "Week Ending February 22, 2026",
+      "description": "Developer News CFP submissions for Open Source Summit India are due March 4. Submit here.",
+      "language": "en",
+      "type": "link",
+      "author_name": "",
+      "author_url": "",
+      "provider_name": "Last Week in Kubernetes Development",
+      "provider_url": "",
+      "html": "",
+      "width": 0,
+      "height": 0,
+      "image": null,
+      "image_description": "",
+      "embed_url": "",
+      "blurhash": null,
+      "published_at": "2026-02-26T12:30:00.000Z",
+      "authors": []
+    },
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  },
+  {
+    "id": "116137625490798865",
+    "created_at": "2026-02-26T15:00:35.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://flipboard.com/users/CNN/statuses/T9dPw_AwRra15j4sCd5tXg:a:132361178",
+    "url": "https://flipboard.com/@cnn/entertainment-kdo79uqrz/-/a-T9dPw_AwRra15j4sCd5tXg%3Aa%3A132361178-%2F0",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "quotes_count": 0,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>Hollywood Minute: Metallica confirms October residency at Sphere in Las Vegas<br><a href=\"https://www.cnn.com/2026/02/26/entertainment/video/entertainment-showbiz-hollywood-minute-metallica-sphere-residency-matt-dillon-magnificent-seven-riz-ahmed-hamlet?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/02/26/entertainme</span><span class=\"invisible\">nt/video/entertainment-showbiz-hollywood-minute-metallica-sphere-residency-matt-dillon-magnificent-seven-riz-ahmed-hamlet?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Posted into Entertainment <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@cnn/entertainment-kdo79uqrz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>entertainment-CNN</span></a></span></p>",
+    "filtered": [],
+    "reblog": null,
+    "account": {
+      "id": "113430982483463560",
+      "username": "CNN",
+      "acct": "CNN@flipboard.com",
+      "display_name": "CNN",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "indexable": true,
+      "group": false,
+      "created_at": "2024-11-04T00:00:00.000Z",
+      "note": "<p>Asking the hard questions and bringing unique perspectives from across the globe. This is CNN.</p><p>Follow to see posts from the official <a href=\"https://flipboard.com/@CNN\" rel=\"nofollow noopener\" target=\"_blank\">CNN</a> Flipboard profile.</p>",
+      "url": "https://flipboard.com/@CNN",
+      "uri": "https://flipboard.com/users/CNN",
+      "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/430/982/483/463/560/original/bdbfbbe55f533e4b.png",
+      "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/430/982/483/463/560/original/bdbfbbe55f533e4b.png",
+      "header": "https://mastodont.cat/headers/original/missing.png",
+      "header_static": "https://mastodont.cat/headers/original/missing.png",
+      "followers_count": 992410,
+      "following_count": 0,
+      "statuses_count": 207563,
+      "last_status_at": "2026-02-26",
+      "hide_collections": false,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [
+      {
+        "id": "113444598135627165",
+        "username": "entertainment-CNN",
+        "url": "https://flipboard.com/@cnn/entertainment-kdo79uqrz",
+        "acct": "entertainment-CNN@flipboard.com"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "quote": null,
+    "card": {
+      "url": "https://www.cnn.com/2026/02/26/entertainment/video/entertainment-showbiz-hollywood-minute-metallica-sphere-residency-matt-dillon-magnificent-seven-riz-ahmed-hamlet?utm_source=flipboard&utm_medium=activitypub",
+      "title": "Hollywood Minute: Metallica confirms October residency at Sphere in Las Vegas | CNN",
+      "description": "The iconic band’s ‘Life Burns Faster’ residency to begin October 1, Matt Dillon to star in a ‘Magnificent Seven’ remake, and Riz Ahmed tries his hand at ‘Hamlet.’ David Daniel reports.",
+      "language": "en",
+      "type": "link",
+      "author_name": "",
+      "author_url": "",
+      "provider_name": "CNN",
+      "provider_url": "",
+      "html": "",
+      "width": 640,
+      "height": 360,
+      "image": "https://mastodont.cat/system/cache/preview_cards/images/021/952/860/original/f83edf9b6f478b04.jpg",
+      "image_description": "",
+      "embed_url": "",
+      "blurhash": "U47myu0L%LD%^OX8IpxZD%-;D%-:ozM|%2wc",
+      "published_at": "2026-02-26T15:00:35.383Z",
+      "authors": []
+    },
+    "poll": null,
+    "quote_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "automatic"
+    }
+  }
+]

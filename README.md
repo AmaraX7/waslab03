@@ -2,6 +2,6 @@
 
 Students:
 
-* Surname_1, First_name_1
+* Amara, Mohamed
 
-* Surname_2, First_name_2
+* Ziani, Adam
