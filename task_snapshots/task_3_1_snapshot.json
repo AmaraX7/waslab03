@@ -1,0 +1,29 @@
+{
+  "id": "282304",
+  "expires_at": "2026-03-05T10:28:24.302Z",
+  "expired": false,
+  "multiple": false,
+  "votes_count": 55,
+  "voters_count": 55,
+  "voted": false,
+  "own_votes": [],
+  "options": [
+    {
+      "title": "Sí, clar.",
+      "votes_count": 24
+    },
+    {
+      "title": "Gaire bé sí.",
+      "votes_count": 14
+    },
+    {
+      "title": "Falta fer el commit i ja està.",
+      "votes_count": 6
+    },
+    {
+      "title": "No sé de què m'esteu parlant.",
+      "votes_count": 11
+    }
+  ],
+  "emojis": []
+}
