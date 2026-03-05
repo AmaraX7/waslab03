@@ -1,0 +1,189 @@
+/* ===== Design Tokens ===== */
+:root {
+    /* Brand */
+    --primary: #1da1f2;
+    --accent: #17bf63;
+
+    /* Neutrals */
+    --bg: #f7f8fa;
+    --surface: #ffffff;
+    --surface-2: #fafafa;
+    --text: #111827;         /* near-black for readability */
+    --muted: #667085;        /* modern neutral */
+    --border: #e5e7eb;       /* light gray divider */
+
+    /* States */
+    --danger: #b91c1c;
+    --danger-bg: #fef2f2;
+    --danger-border: #fecaca;
+
+    /* Radii & Shadows */
+    --radius: 12px;
+    --shadow-1: 0 1px 2px rgba(16, 24, 40, 0.06);
+
+    /* Spacing & Typography */
+    --container-w: 920px;
+    --gap: 16px;
+    --gap-lg: 24px;
+    --line: 1.6;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #0b0f14;
+        --surface: #0f141a;
+        --surface-2: #141b22;
+        --text: #e5e7eb;
+        --muted: #9aa4b2;
+        --border: #263241;
+        --shadow-1: none; /* keep flat in dark mode */
+        --danger-bg: #1b0f10;
+        --danger-border: #5a2930;
+    }
+}
+
+/* ===== Base ===== */
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body {
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji",
+    "Segoe UI Emoji";
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    line-height: var(--line);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    max-width: var(--container-w);
+    padding: var(--gap-lg);
+    margin-inline: auto;
+}
+
+/* Reduce animation for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+}
+
+/* ===== Header ===== */
+.header {
+    background: var(--surface);
+    padding: calc(var(--gap-lg) + 4px) var(--gap-lg);
+    margin-bottom: 32px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-1);
+}
+
+.header h1 {
+    margin: 0 0 8px 0;
+    font-size: clamp(1.25rem, 1.1rem + 1vw, 1.8rem);
+    font-weight: 650;
+    letter-spacing: -0.01em;
+}
+
+.header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+}
+
+/* ===== Account Card ===== */
+.account {
+    background: var(--surface);
+    padding: var(--gap-lg);
+    margin: 20px 0;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-1);
+    transition: transform 120ms ease, background-color 120ms ease, border-color 120ms ease;
+}
+
+.account:hover {
+    transform: translateY(-2px);
+    background: var(--surface-2);
+    border-color: color-mix(in oklab, var(--border), var(--primary) 12%);
+}
+
+.account h2 {
+    margin: 0 0 6px 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.account p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+}
+
+/* Avatar */
+.account-avatar {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+    object-fit: cover;
+    border: 1px solid var(--border);
+}
+
+/* ===== Tuts ===== */
+.tuts { margin-top: 14px; }
+
+.tut {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--primary);
+    border-radius: calc(var(--radius) - 4px);
+    padding: 14px 14px 12px 14px;
+    margin: 12px 0;
+    transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+.tut:hover {
+    background: var(--surface-2);
+    border-color: color-mix(in oklab, var(--border), var(--primary) 18%);
+}
+
+.reblog { border-left-color: var(--accent); }
+
+.timestamp {
+    color: var(--muted);
+    font-size: 0.87rem;
+    margin: 0 0 6px 0;
+}
+
+/* Content that often includes HTML from Mastodon */
+.content :where(p, ul, ol) { margin: 0 0 8px 0; }
+.content :where(a) {
+    color: var(--primary);
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in oklab, var(--primary), transparent 70%);
+}
+.content :where(a:hover) {
+    border-bottom-color: var(--primary);
+}
+
+/* Emojis inline with text */
+.emoji {
+    height: 1em;
+    width: 1em;
+    vertical-align: -0.1em;
+}
+
+/* ===== Error ===== */
+.error {
+    color: var(--danger);
+    background: var(--danger-bg);
+    border: 1px solid var(--danger-border);
+    border-radius: var(--radius);
+    padding: var(--gap);
+    margin: 16px 0;
+    font-weight: 500;
+}
