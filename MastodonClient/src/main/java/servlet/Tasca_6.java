@@ -29,7 +29,7 @@ public class Tasca_6 extends HttpServlet {
 
         String TOKEN = ResourceBundle.getBundle("token").getString("token");
 
-        SimpleDateFormat sdf = new SimpleDateFormat("EEEE, d 'de' MMMM 'de' yyyy 'a les' HH:mm:ss", Locale.forLanguageTag("ca"));
+        SimpleDateFormat sdf = new SimpleDateFormat("EEEE, dd 'de' MMMM 'de' yyyy 'a les' HH:mm:ss", Locale.forLanguageTag("ca"));
         String now = sdf.format(new Date());
 
         out.println("<!DOCTYPE html>");
@@ -46,6 +46,7 @@ public class Tasca_6 extends HttpServlet {
         out.println("</div>");
 
         try {
+            // obtengo los accounts que sigue fib_asw
             String followingUrl = BASE_URL + "/api/v1/accounts/" + FIB_ASW_ID + "/following?limit=80";
             String followingOutput = Request.get(followingUrl)
                     .addHeader("Authorization", "Bearer " + TOKEN)
@@ -55,13 +56,17 @@ public class Tasca_6 extends HttpServlet {
 
             JSONArray following = new JSONArray(followingOutput);
 
+            // para cada account
             for (int i = 0; i < following.length(); i++) {
                 JSONObject account = following.getJSONObject(i);
 
-                String displayName  = account.getString("display_name");
-                String acct         = account.getString("acct");
-                String avatar       = account.getString("avatar");
-                int followersCount  = account.getInt("followers_count");
+                String accountId     = account.getString("id");
+                String displayName   = account.getString("display_name");
+                String acct          = account.getString("acct");
+                String avatar        = account.getString("avatar");
+                int followersCount   = account.getInt("followers_count");
+
+                // Si acct contiene @ es de otro servidor, si no es de mastodont.cat
                 String fullUsername = "@" + acct;
 
                 out.println("<div class='account'>");
@@ -70,7 +75,51 @@ public class Tasca_6 extends HttpServlet {
                 out.println("    " + displayName + " (" + fullUsername + ")");
                 out.println("  </h2>");
                 out.println("  <p>Nombre de seguidors: " + followersCount + "</p>");
-                out.println("</div>");
+                out.println("  <div class='tuts'>");
+
+                // obtener SOLO últimos 5 tuts
+                String statusesUrl = BASE_URL + "/api/v1/accounts/" + accountId + "/statuses?limit=5";
+                String statusesOutput = Request.get(statusesUrl)
+                        .addHeader("Authorization", "Bearer " + TOKEN)
+                        .execute()
+                        .returnContent()
+                        .asString();
+
+                JSONArray statuses = new JSONArray(statusesOutput);
+
+                for (int j = 0; j < statuses.length(); j++) {
+                    JSONObject status = statuses.getJSONObject(j);
+                    boolean isReblog = !status.isNull("reblog");
+
+                    if (isReblog) {
+                        JSONObject originalStatus  = status.getJSONObject("reblog");
+                        JSONObject originalAccount = originalStatus.getJSONObject("account");
+                        String originalDisplayName = originalAccount.getString("display_name");
+                        String originalAcct        = originalAccount.getString("acct");
+                        String originalFullAcct    = "@" + originalAcct;
+                        String reblogContent       = originalStatus.getString("content");
+                        String reblogTime          = formatTimestamp(status.getString("created_at"));
+
+                        out.println("    <div class='tut reblog'>");
+                        out.println("      <p class='timestamp'>🔁 Retut - " + reblogTime +
+                                " <span class='original-author'>(Original: " + originalDisplayName +
+                                " (" + originalFullAcct + "))</span></p>");
+                        out.println("      <div class='content'>" + reblogContent + "</div>");
+                        out.println("    </div>");
+
+                    } else {
+                        String content   = status.getString("content");
+                        String timestamp = formatTimestamp(status.getString("created_at"));
+
+                        out.println("    <div class='tut'>");
+                        out.println("      <p class='timestamp'>" + timestamp + "</p>");
+                        out.println("      <div class='content'>" + content + "</div>");
+                        out.println("    </div>");
+                    }
+                }
+
+                out.println("  </div>"); // pa loss tuts
+                out.println("</div>");   // pa las account
             }
 
         } catch (Exception e) {
@@ -80,5 +129,16 @@ public class Tasca_6 extends HttpServlet {
 
         out.println("</body>");
         out.println("</html>");
+    }
+
+    private String formatTimestamp(String isoTimestamp) {
+        try {
+            SimpleDateFormat input  = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'");
+            SimpleDateFormat output = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+            Date date = input.parse(isoTimestamp);
+            return output.format(date);
+        } catch (Exception e) {
+            return isoTimestamp;
+        }
     }
 }
